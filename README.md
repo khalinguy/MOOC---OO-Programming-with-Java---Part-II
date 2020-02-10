@@ -6,7 +6,7 @@ Object-Oriented Programming with Java, part 2
 
 University of Helsinki, Finland
 
-mooc.fi/english
+http://moocfi.github.io/courses/2013/programming-part-2/material.html
 
 This is the following part of the Object-Oriented Programming with Java, part 1
 
